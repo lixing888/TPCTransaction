@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TPCTransaction.iml" filepath="$PROJECT_DIR$/.idea/TPCTransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/bank-alpha-service/bank-alpha.iml" filepath="$PROJECT_DIR$/sample/bank-alpha-service/bank-alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/bank-bravo-service/bank-bravo.iml" filepath="$PROJECT_DIR$/sample/bank-bravo-service/bank-bravo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/bank-client/bank-client.iml" filepath="$PROJECT_DIR$/sample/bank-client/bank-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sample/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowflake-uid/snowflake-uid.iml" filepath="$PROJECT_DIR$/snowflake-uid/snowflake-uid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tpc/tpc.iml" filepath="$PROJECT_DIR$/tpc/tpc.iml" />
+    </modules>
+  </component>
+</project>

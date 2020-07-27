@@ -1,0 +1,8 @@
+net\xdevelop\tpc\aspect\TPCTransactionalAspect.class
+net\xdevelop\tpc\TPCTransactionController.class
+net\xdevelop\tpc\config\UIDConfig.class
+net\xdevelop\tpc\aspect\TPCTransactionalAspect$1.class
+net\xdevelop\tpc\config\RibbonRuleConfig.class
+net\xdevelop\tpc\annotation\TPCTransactional.class
+net\xdevelop\tpc\config\TPCAspectAutoConfig.class
+net\xdevelop\tpc\TPCTransactionManager.class
